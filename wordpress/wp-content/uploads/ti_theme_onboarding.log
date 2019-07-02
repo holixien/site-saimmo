@@ -1,0 +1,14 @@
+[02/Jul/2019:09:31:21] (ℹ️): WordPress Instance Info:
+[02/Jul/2019:09:31:21] (ℹ️): Home URL : http://localhost/sonaimm/wordpress
+[02/Jul/2019:09:31:21] (ℹ️): Site URL : http://localhost/sonaimm/wordpress
+[02/Jul/2019:09:31:21] (ℹ️): WordPress Version : 5.2.2
+[02/Jul/2019:09:31:21] (ℹ️): Onboarding Version : 1.4.1
+[02/Jul/2019:09:31:21] (ℹ️): Multisite : No
+[02/Jul/2019:09:31:21] (ℹ️): Server Info : Apache/2.4.29 (Ubuntu)
+[02/Jul/2019:09:31:21] (ℹ️): PHP Version : 7.2.19-0ubuntu0.18.04.1
+[02/Jul/2019:09:31:21] (ℹ️): HTTPS : No
+[02/Jul/2019:09:31:21] (ℹ️): PHP Max Execution Time : 30
+[02/Jul/2019:09:31:21] (ℹ️): PHP Max Input Vars : 1000
+[02/Jul/2019:09:31:21] (ℹ️): Max Upload Size : 2097152
+[02/Jul/2019:09:31:21] (ℹ️): Plugins:
+[02/Jul/2019:09:31:21] (ℹ️): [PLUGIN] Orbit Fox Companion : v2.8.4 (Themeisle)
